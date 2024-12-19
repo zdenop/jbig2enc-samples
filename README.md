@@ -1,0 +1,1 @@
+Sample / demo repository for [jbig2 encoder](https://github.com/agl/jbig2enc).
